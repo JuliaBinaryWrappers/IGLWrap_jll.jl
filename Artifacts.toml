@@ -1,0 +1,20 @@
+[[IGLWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9589a7cb39bfd48b4857367f8737b31f50203e87"
+libc = "glibc"
+os = "linux"
+
+    [[IGLWrap.download]]
+    sha256 = "5c1244bb383f1db4e578cef4bb3952543fb17b5507b76a9e7354dc07446b99cd"
+    url = "https://github.com/JuliaBinaryWrappers/IGLWrap_jll.jl/releases/download/IGLWrap-v2.3.0+0/IGLWrap.v2.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[IGLWrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "de2eb2c81054b3dfe49441510523a90a60f2626a"
+libc = "glibc"
+os = "linux"
+
+    [[IGLWrap.download]]
+    sha256 = "a1e62a55e3551546ce88e7238814538594a41333f151a0f92b31260aa9006cd7"
+    url = "https://github.com/JuliaBinaryWrappers/IGLWrap_jll.jl/releases/download/IGLWrap-v2.3.0+0/IGLWrap.v2.3.0.x86_64-linux-gnu-cxx11.tar.gz"
